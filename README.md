@@ -33,3 +33,6 @@ of time limits.
 The `ip` folder contains all of the custom IP needed to rebuild the design. It
 has been tested with Vivado HLS 2018.2 and will need the xfopencv library to
 compile the Optical Flow IP. Rebuilding the design will need Vivado 2018.1.  
+
+
+Demonstration of the repository can be found [here by James Thesken] (https://www.youtube.com/watch?v=9CxeCY5PPyA)
